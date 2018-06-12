@@ -1,5 +1,10 @@
 # PPMProject
 
+Before running project
+Run npm install
+Run npm install --save font-awesome
+Run npm install --save bootstrap
+Using font-awesome icons there: https://fontawesome.com/v4.7.0/icons/
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
